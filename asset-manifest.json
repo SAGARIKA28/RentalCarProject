@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RentalCarProject/static/css/main.23ddf263.chunk.css",
-    "main.js": "/RentalCarProject/static/js/main.e52aa9e2.chunk.js",
-    "main.js.map": "/RentalCarProject/static/js/main.e52aa9e2.chunk.js.map",
+    "main.js": "/RentalCarProject/static/js/main.8f33370c.chunk.js",
+    "main.js.map": "/RentalCarProject/static/js/main.8f33370c.chunk.js.map",
     "runtime-main.js": "/RentalCarProject/static/js/runtime-main.8a9e43ec.js",
     "runtime-main.js.map": "/RentalCarProject/static/js/runtime-main.8a9e43ec.js.map",
     "static/css/2.59405167.chunk.css": "/RentalCarProject/static/css/2.59405167.chunk.css",
     "static/js/2.b78de845.chunk.js": "/RentalCarProject/static/js/2.b78de845.chunk.js",
     "static/js/2.b78de845.chunk.js.map": "/RentalCarProject/static/js/2.b78de845.chunk.js.map",
     "index.html": "/RentalCarProject/index.html",
-    "precache-manifest.905d69060935edaf39d9559bf95b0a13.js": "/RentalCarProject/precache-manifest.905d69060935edaf39d9559bf95b0a13.js",
+    "precache-manifest.6709ca905306365a792a25e44777f9e4.js": "/RentalCarProject/precache-manifest.6709ca905306365a792a25e44777f9e4.js",
     "service-worker.js": "/RentalCarProject/service-worker.js",
     "static/css/2.59405167.chunk.css.map": "/RentalCarProject/static/css/2.59405167.chunk.css.map",
     "static/css/main.23ddf263.chunk.css.map": "/RentalCarProject/static/css/main.23ddf263.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.59405167.chunk.css",
     "static/js/2.b78de845.chunk.js",
     "static/css/main.23ddf263.chunk.css",
-    "static/js/main.e52aa9e2.chunk.js"
+    "static/js/main.8f33370c.chunk.js"
   ]
 }
