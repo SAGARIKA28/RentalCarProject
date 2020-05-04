@@ -12,7 +12,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <Router>
+        <Router basename={window.location.pathname || ""}>
           <NavBar />
           <Switch>
             <Route path="/" exact component={CarList} />
