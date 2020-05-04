@@ -5,7 +5,8 @@ import { Link } from "react-router-dom";
 
 export default class CarItem extends Component {
   render() {
-    let v, b;
+    let v = null;
+    let b = null;
     if (this.props.car.booked) {
       v = <a class="btn disabled">BOOK NOW</a>;
       b = <label>Curently unavailabel !</label>;
@@ -20,7 +21,6 @@ export default class CarItem extends Component {
           </Link>
         </button>
       );
-      b = "";
     }
     return (
       <div>
