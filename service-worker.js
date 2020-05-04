@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RentalCarProject/precache-manifest.82800d6394352d9a0fd0a1f0b0259066.js"
+  "/RentalCarProject/precache-manifest.34cedf7367e8174c15b8be33d0041b9f.js"
 );
 
 self.addEventListener('message', (event) => {
